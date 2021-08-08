@@ -1,0 +1,10 @@
+tensorflow>=2.5.0
+tensorflow-io
+tensorflow-datasets
+pydub
+numpy
+librosa
+scipy
+tqdm
+scikit-learn
+matplotlib
