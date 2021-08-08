@@ -52,7 +52,7 @@ python train.py --audio-low-path 'FFMPEGConvertedCut32' --audio-high-path 'CutSo
 
 For inference, you can use
 ```sh
-!python inference.py --checkpoint-path="/path/to/checkpoint.h5" --mp3-audio-file="/path/to/mp3file"
+python inference.py --checkpoint-path="/path/to/checkpoint.h5" --mp3-audio-file="/path/to/mp3file"
 ```
 
 <!-- CONTRIBUTING -->
